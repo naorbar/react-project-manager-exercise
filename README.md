@@ -2,7 +2,7 @@
 
 To project was originally created using [Create React App](https://github.com/facebook/create-react-app)
 
-#### To work on it:
+#### To start working on it:
 - `git clone` to clone the project
 - `cd` to the app folder
 - `npm install` to install all dependencies into the app folder
