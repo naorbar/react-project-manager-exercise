@@ -1,6 +1,6 @@
 ### This is a great React exercise, based on this tutorial: [React crash course in youtube](https://www.youtube.com/watch?v=A71aqufiNtQ)
 
-To project was created using [Create React App](https://github.com/facebook/create-react-app).
+To project was originally created using [Create React App](https://github.com/facebook/create-react-app)
 
 #### To work on it:
 - `git clone` to clone the project
